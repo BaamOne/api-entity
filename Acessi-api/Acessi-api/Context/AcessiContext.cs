@@ -16,5 +16,10 @@ namespace Acessi_api.Context
         public DbSet<UserModel> Users { get; set; }
 
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(AcessiContext).Assembly);
+        }
+
     }
 }

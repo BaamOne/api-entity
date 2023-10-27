@@ -1,7 +1,7 @@
 ﻿using Acessi_api.Context;
 using Acessi_api.Interfaces.User;
 using Acessi_api.Models.User;
-
+using Microsoft.EntityFrameworkCore;
 
 namespace Acessi_api.Services.User
 {

@@ -2918,11 +2918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Acessi-api\\Acessi-api\\Acessi-api\\Acessi-api.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\api-entity\\Acessi-api\\Acessi-api\\Acessi-api.csproj",
       "projectName": "Acessi-api",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Acessi-api\\Acessi-api\\Acessi-api\\Acessi-api.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\api-entity\\Acessi-api\\Acessi-api\\Acessi-api.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Acessi-api\\Acessi-api\\Acessi-api\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\api-entity\\Acessi-api\\Acessi-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
